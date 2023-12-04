@@ -12,4 +12,7 @@ class StaticController < ApplicationController
     # roots / root /rooting
     # routes / route / routing
   end
+
+  def about
+  end
 end
